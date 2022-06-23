@@ -1,7 +1,7 @@
 ---
 applications:
 - path: .
-  name: sentiment-analyzer-17.05.22 #change to be unique in IBM Cloud
+  name: sentimentanalyzer23.06.22 #change to be unique in IBM Cloud
   memory: 256M
   instances: 1
   random-route: true
